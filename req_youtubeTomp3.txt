@@ -1,0 +1,4 @@
+pyTelegramBotAPI==4.4.1
+youtube-dl==2021.12.17
+os==3.10.0
+tqdm==4.74.0
